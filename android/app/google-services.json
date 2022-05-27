@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "851303059493",
+    "project_id": "fb-reactnative123",
+    "storage_bucket": "fb-reactnative123.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851303059493:android:eb0ad5b457ba775fdc6fcc",
+        "android_client_info": {
+          "package_name": "com.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851303059493-fshbeifcgk5dmlc692u8749m323ggs19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACIUz8HblSStYQmklojKMKHigkGeWTynA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851303059493-fshbeifcgk5dmlc692u8749m323ggs19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
